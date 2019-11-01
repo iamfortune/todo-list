@@ -1,2 +1,2 @@
 # todo-list
-a simple todo list with javascript 
+a simple todo list using javascript functions, if loops and variables 
